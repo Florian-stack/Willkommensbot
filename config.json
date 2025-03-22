@@ -1,0 +1,11 @@
+{
+    "token": "DEIN_TOKEN",
+    "welcomeChannel": "『🛬』↬einreise",
+    "welcomeImage": "https://cdn.discordapp.com/attachments/1247327467631542283/1343198999167111292/welcome.png?ex=67bc670c&is=67bb158c&hm=ced0fbfcacb4e09bb197d2fe3f04761860c903c0b257828f57ecc5365cc158e9&",
+    "cooldown": 300000,
+    "embedColor": "0x2ECC71",
+    "embedTitle": "Willkommen auf ${guildName}!",
+    "embedDescription": "Hey ${member}, wir freuen uns, dich hier zu haben! 🎉",
+    "embedFooter": "Viel Spaß auf dem Server!",
+    "welcomeMessage": "${member} ist dem Server beigetreten! 👋"
+  }
